@@ -11,14 +11,23 @@ I enjoy transforming complex problems into safe solutions and have a solid backg
 
 
 ## Objective
-**Proven Expertise**: I concentrate on building solid defences against actual threats, from penetration testing and incident response to implementing security awareness initiatives.
-
-**Practical Experience**: I've demonstrated my proactive ability to find vulnerabilities with programs like Burp Suite, Nessus, and Wireshark. My constant pursuit of improving security protocols for scaled environments gives you the assurance of my capacity to safeguard your systems.
-
-**Commitment to Privacy**: I prioritize data protection and privacy compliance to give businesses the utmost security and trust. 
+**Proven Expertise**: 
 
 
-View my repositories to view my contributions to open-source projects, vulnerability scans, and real-world applications of security technologies. I hope these projects, which centre around safeguarding the digital world, inspire you to the same extent they have inspired me.
+I concentrate on building solid defences against actual threats, from penetration testing and incident response to implementing security awareness initiatives.
+
+
+**Practical Experience**: 
+
+I've demonstrated my proactive ability to find vulnerabilities with programs like Burp Suite, Nessus, and Wireshark. My constant pursuit of improving security protocols for scaled environments gives you the assurance of my capacity to safeguard your systems.
+
+**Commitment to Privacy**: 
+
+I prioritize data protection and privacy compliance to give businesses the utmost security and trust. 
+
+
+Check repositories and contributions to open-source projects, vulnerability scans, and real-world applications of security technologies and I hope these projects, which centre around safeguarding the digital world, inspire you to the same extent they have inspired me.
+
 
 ## Skills
 Network Security, Vulnerability Scanner, Threat Intelligence, Risk Assessment, Risk Registry, Email Security, Cyber security and ISO27001 implementation. 
