@@ -65,3 +65,9 @@ Network Security, Vulnerability Scanner, Threat Intelligence, Risk Assessment, R
 **Vulnerability Scanner OpenVas- An Open Initiative**
 
 <a href="https://github.com/digital-mark-cyber/Vulnerability-Scanner-Enhancement"><img src="https://img.shields.io/badge/-OpenVas-0088D7?&style=for-the-badge&logo=OpenVas&logoColor=white" /></a>
+
+## Project 03
+**How to Apply Open Source Intelligence with Python**
+
+<a href="https://github.com/digital-mark-cyber/How-to-Apply-Open-Source-Intelligence-OSINT-with-Python"><img src="https://img.shields.io/badge/-OSINT-0085C7?&style=for-the-badge&logo=OSINT&logoColor=white" /></a>
+
