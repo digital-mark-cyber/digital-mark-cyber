@@ -17,11 +17,43 @@ I enjoy transforming complex problems into safe solutions and have a solid backg
 
 **Commitment to Privacy**: I prioritize data protection and privacy compliance to give businesses the utmost security and trust. 
 
-**Ongoing Education**: In the rapidly evolving field of cybersecurity, I am committed to staying up to date on the newest tactics employed by attackers and defences. Thanks to  achieved credentials, my understanding has grown significantly, giving you confidence in my knowledge and skills.
-
-
 
 View my repositories to view my contributions to open-source projects, vulnerability scans, and real-world applications of security technologies. I hope these projects, which centre around safeguarding the digital world, inspire you to the same extent they have inspired me.
+
+## Skills
+Network Security, Vulnerability Scanner, Threat Intelligence, Risk Assessment, Risk Registry, Email Security, Cyber security and ISO27001 implementation. 
+
+
+## Tools
+
+### Network
+<div>
+<a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />  
+  <a href="https://www.tcpdump.org/index.html"><img src="https://img.shields.io/badge/-TCPDUMP-EF3B2D?&style=for-the-badge&logo=Tcpdump&logoColor=white" />  
+  <a href="https://zeek.org"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />  
+</div>
+
+
+### Endpoint
+<div>
+    <a href="https://www.microsoft.com/en-gb/microsoft-365/microsoft-defender-for-individuals"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
+       <a href="https://docs.velociraptor.app"><img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+
+### SIEM
+<div>
+<a href="https://azure.microsoft.com/en-gb/products/microsoft-sentinel"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<a href="https://www.splunk.com"><img src="https://img.shields.io/badge/-Splunk-0078D4?&style=for-the-badge&logo=Splunk&logoColor=white" />
+ <a href="https://www.elastic.co"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+
+### OSINT
+<a href="https://www.maltego.com"><img src="https://img.shields.io/badge/-Maltego-000000?&style=for-the-badge&logo=Maltego&logoColor=Red" />
+<a href="https://intel471.com/solutions/attack-surface-protection"><img src="https://img.shields.io/badge/-Spiderfoot-000042?&style=for-the-badge&logo=Spiderfoot&logoColor=Green" />
+<a href="https://www.exploit-db.com/google-hacking-database"><img src="https://img.shields.io/badge/-Google Dorks-00A4EF?&style=for-the-badge&logo=Google Dorks&logoColor=Yellow" />
+
 
 
 
