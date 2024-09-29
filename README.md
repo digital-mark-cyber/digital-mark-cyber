@@ -61,4 +61,7 @@ Network Security, Vulnerability Scanner, Threat Intelligence, Risk Assessment, R
 **Building a port Scanner in Python**  
 <a href="https://github.com/digital-mark-cyber/Port-Scanner-Python"><img src="https://img.shields.io/badge/-Python-0078D7?&style=for-the-badge&logo=Python&logoColor=white" /></a>
 
+## Project 02
+**Vulnerability Scanner OpenVas- An Open Initiative**
 
+<a href="https://github.com/digital-mark-cyber/Vulnerability-Scanner-Enhancement"><img src="https://img.shields.io/badge/-OpenVas-0088D7?&style=for-the-badge&logo=OpenVas&logoColor=white" /></a>
