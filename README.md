@@ -7,7 +7,7 @@ Hello, I'm Digital-Mark-Cyber.
 
 
 I am a passionate, meticulous cybersecurity specialist committed to defending networks, systems, and data against the constantly changing cyber threats. 
-I enjoy transforming complex problems into safe solutions and have a solid background in risk management, secure coding techniques, and vulnerability assessment.
+I can transform complex problems into safe solutions and have a solid background in risk management, secure coding techniques, and vulnerability assessment.
 
 
 ## Objective
